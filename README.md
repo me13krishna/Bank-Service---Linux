@@ -1,4 +1,5 @@
-﻿# Radhe Bank | Linux Service Simulator
+﻿# | Radhe Bank |
+# Linux Service Simulator
 
 <p align="center">
 	<strong>A menu-driven Bash project for exploring a simple, local banking-service workflow.</strong>
